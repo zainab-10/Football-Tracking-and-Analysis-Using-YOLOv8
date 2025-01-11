@@ -5,6 +5,6 @@ The system detects key elements in football games, such as players, referees, go
 ## Results
 <p align="center">
   <img src="imaged.png" alt="Centered Image" width="400">
-  <img src="image" alt="Centered Image" width="400">
+  <img src="image.png" alt="Centered Image" width="400">
 </p>
 
